@@ -1,0 +1,12 @@
+url,length,has_https,has_ip,has_at,has_dash,label
+https://google.com,18,1,0,0,0,0
+https://facebook.com,20,1,0,0,0,0
+http://192.168.0.1/login,28,0,1,0,0,1
+http://secure-login@bank.com,30,0,0,1,0,1
+http://free-money-now.com,25,0,0,0,1,1
+https://github.com,18,1,0,0,0,0
+http://update-account-info.com,35,0,0,0,1,1
+https://amazon.com,20,1,0,0,0,0
+http://login-secure-paypal.com,35,0,0,0,1,1
+http://verify-account-bank.com,40,0,0,0,1,1
+https://stackoverflow.com,25,1,0,0,0,0
